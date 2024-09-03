@@ -1,3 +1,5 @@
+# 5) Escreva um programa que inverta os caracteres de um string. 
+
 def invertString(string: str) -> str:
     p1, p2 = string[0], string[-1]
     
